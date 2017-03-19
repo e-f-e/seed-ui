@@ -11,6 +11,10 @@
 
 > 为保证代码冗余，默认导出编译前源码，由用户自己编译打包
 
+## 样式库
+
+* [material](http://www.materialdoc.com/)
+
 ## 核心组件
 
 > 组件命名规则，`sd-componentName`
